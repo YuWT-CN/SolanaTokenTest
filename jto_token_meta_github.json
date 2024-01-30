@@ -2,13 +2,13 @@
     "name": "Cactus Custody JTO",
     "symbol": "JTO", 
     "description": "Cactus Custody JTO Test Token",
-    "image": "https://github.com/YuWT-CN/SolanaTokenTest/blob/main/Cactus.jpg", 
+    "image": "https://github.com/YuWT-CN/SolanaTokenTest/blob/main/favicon.png", 
     "attributes": [],
     "properties": {
         "files": [
             {
-                "uri": "https://github.com/YuWT-CN/SolanaTokenTest/blob/main/Cactus.jpg", 
-                "type": "image/jpg" 
+                "uri": "https://github.com/YuWT-CN/SolanaTokenTest/blob/main/favicon.png", 
+                "type": "image/png" 
             }
         ]
     }
